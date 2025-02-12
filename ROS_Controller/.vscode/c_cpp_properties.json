@@ -1,0 +1,28 @@
+{
+	"configurations": [
+		{
+			"name": "ROS_ControllerEditor Editor Linux Development (ROS_Controller)",
+			"compilerPath": "/home/gurcan/Desktop/Linux_Unreal_Engine_5.3.0/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"compilerArgs": [
+				"-isysroot",
+				"/home/gurcan/Desktop/Linux_Unreal_Engine_5.3.0/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu"
+			],
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "clang-x64",
+			"compileCommands": "/home/gurcan/Documents/Unreal Projects/ROS_Controller/.vscode/compileCommands_ROS_Controller.json"
+		},
+		{
+			"name": "Linux",
+			"compilerPath": "/home/gurcan/Desktop/Linux_Unreal_Engine_5.3.0/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"compilerArgs": [
+				"-isysroot",
+				"/home/gurcan/Desktop/Linux_Unreal_Engine_5.3.0/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu"
+			],
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "clang-x64",
+			"compileCommands": "/home/gurcan/Documents/Unreal Projects/ROS_Controller/.vscode/compileCommands_Default.json"
+		}
+	]
+}
