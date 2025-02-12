@@ -8,9 +8,14 @@ Image and Velocity (Twist) transporter between ROS2 and UE5
 - Qt 6
 
 # Project Architecture
-![Projenin Mimari Tasarımı](https://github.com/user-attachments/assets/080c2f3d-a8bd-4d55-a4bd-d8bbf9a6e104)
+![Projenin Mimari Tasarımı](https://github.com/user-attachments/assets/cabad4c4-1856-4048-8c02-83a9a0c542d1)
+
 
 # Project Showcase
 
 
-https://github.com/user-attachments/assets/86281f6b-383a-40e4-b7c4-fd3777842802
+https://github.com/user-attachments/assets/5af22ef5-0967-4041-958d-ec0725149418
+
+
+
+
